@@ -1,0 +1,13 @@
+{
+	"name" : "jqury-plugin",
+	"version" : "1.0.0",
+	"description": "simple jquery plugin",
+	"scripts": {
+		"dev": "lite-server"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"lite-server": "2.2.0"
+	}
+}
